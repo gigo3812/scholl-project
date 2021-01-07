@@ -6,3 +6,9 @@
 
 // Bootstrap
 @import '~bootstrap/scss/bootstrap';
+
+
+
+.arrow-right::before{
+    left: 20px;
+}
